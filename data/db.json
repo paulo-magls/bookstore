@@ -1,0 +1,28 @@
+{
+    "books": [
+      {
+        "id": 1,
+        "img": "img1",
+        "name": "Sherlock Holmes",
+        "category": "Mistério",
+        "quantity": "8",
+        "price": 74.89
+      },
+      {
+        "id": 2,
+        "img": "img2",
+        "name": "O Mundo de Sofia",
+        "category": "Romance",
+        "quantity": "10",
+        "price": 43.99
+      },
+      {
+        "id": 3,
+        "img": "img3",
+        "name": "Arsène Lupin y la Aguja Hueca",
+        "category": "Mistério",
+        "quantity": "2",
+        "price": 275.00
+      }
+    ]
+  }
